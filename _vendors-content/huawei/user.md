@@ -43,6 +43,10 @@ Startup manager seems to be a new kid on the block, preventing apps run automati
   </figure>
 </div>
 
+### EMUI 12
+
+To allow automatic launch and in the background you must:
+
 ### EMUI 9+ devices
 
 #### Classic battery optimization
